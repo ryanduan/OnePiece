@@ -2,6 +2,8 @@
 
 这只是一个API层的小例子，随便写着玩玩。
 
+# [PEP8编码规范](https://github.com/ryanduan/music_api/pep8.md)
+
 ##简介 Introduction
 
 ###实现功能
